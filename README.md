@@ -1,2 +1,2 @@
-# NLP-Twitter-hate-speech-classification
+# Twitter-hate-speech-classification
 # Personality Profile Type
